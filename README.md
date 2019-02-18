@@ -16,38 +16,38 @@
 
 ## Tutorial
 
+Проверка окружения разработки
 ```sh
-# check development environment
 
-$ cmake --version #shows cmake version 
-#cmake version 3.7.2
+$ cmake --version # shows cmake version 
+cmake version 3.7.2
 
-$curl --version #shows curl version
-#curl 7.52.1
+$curl --version # shows curl version
+curl 7.52.1
 
-$ git --version #shows git version
-#git version 2.11.0
+$ git --version # shows git version
+git version 2.11.0
 
-$ g++ --version #shows g++ version
-#g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+$ g++ --version # shows g++ version
+g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
 
-$ hub --version #shows hub version
-#hub version 2.9.0
+$ hub --version # shows hub version
+hub version 2.9.0
 
-$ make --version #shows Make version
-#GNU Make 4.1
+$ make --version # shows Make version
+GNU Make 4.1
 
-$ subl --version #shows Sublime version
-#Sublime Text Build 3176
+$ subl --version # shows Sublime version
+Sublime Text Build 3176
 
-$ tree --version #shows tree version
-#tree v1.7.0
+$ tree --version # shows tree version
+tree v1.7.0
 
-$ wget --version #shows Wget version
-#GNU Wget 1.18 для linux-gnu.
+$ wget --version # shows Wget version
+GNU Wget 1.18 для linux-gnu.
 
-$ openssl version #shows OpenSSL version
-#OpenSSL 1.1.0j  20 Nov 2018
+$ openssl version # shows OpenSSL version
+OpenSSL 1.1.0j  20 Nov 2018
 ```
 
 ## Links
