@@ -35,19 +35,19 @@ $ hub --version #shows hub version
 #git version 2.11.0
 #hub version 2.9.0
 
-$ make --version #shows make version
+$ make --version #shows Make version
 #GNU Make 4.1
 
-$ subl --version #shows subl version
+$ subl --version #shows Sublime version
 #Sublime Text Build 3176
 
 $ tree --version #shows tree version
 #tree v1.7.0
 
-$ wget --version #shows wget version
+$ wget --version #shows Wget version
 #GNU Wget 1.18 для linux-gnu.
 
-$ openssl version #shows openssl version
+$ openssl version #shows OpenSSL version
 #OpenSSL 1.1.0j  20 Nov 2018
 ```
 
