@@ -32,7 +32,6 @@ $ g++ --version #shows g++ version
 #g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
 
 $ hub --version #shows hub version
-#git version 2.11.0
 #hub version 2.9.0
 
 $ make --version #shows Make version
